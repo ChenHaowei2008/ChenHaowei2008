@@ -3,7 +3,9 @@
 I guess this is where i brag about my achievements.
 
 Singapore NOI 2023 Bronze
+
 SMU WhiteHacks 2023 1st
+
 DawgCTF 2023 8th
 
 - 🔭 I’m currently working on CTFs
