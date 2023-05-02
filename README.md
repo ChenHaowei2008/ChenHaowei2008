@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi
 
-<!--
-**ChenHaowei2008/ChenHaowei2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I guess this is where i brag about my achievements.
 
-Here are some ideas to get you started:
+Singapore NOI 2023 Bronze
+SMU WhiteHacks 2023 1st
+DawgCTF 2023 8th
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on CTFs
+- 🌱 I’m currently learning CTFs
+- 👯 I’m looking to collaborate on CTFs
+- 🤔 I’m looking for help with CTFs
+- 💬 Ask me about CTFs
+- 📫 How to reach me: please don't
+- 😄 Pronouns: CT/Fs
+- ⚡ Fun fact: I love CTFs
