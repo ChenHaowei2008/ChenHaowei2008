@@ -8,6 +8,8 @@ SMU WhiteHacks 2023 1st
 
 DawgCTF 2023 8th
 
+Drone Odyssey Challenge 2023 Best programmer award
+
 - 🔭 I’m currently working on CTFs
 - 🌱 I’m currently learning CTFs
 - 👯 I’m looking to collaborate on CTFs
