@@ -10,6 +10,9 @@ I enjoy participating in CTFs and programming competitions.
 - Sieberrsec CTF 5.0 1st
 - Lag and Crash CTF 2024 3rd Closed category/4th Open category
 
+### Comp Prog (NOI)
+- Singapore NOI 2024 Bronze
+
 **2023 Achievements**
 
 ### CTFs
