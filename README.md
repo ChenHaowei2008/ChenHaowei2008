@@ -1,5 +1,7 @@
 ### Hi
 
+Hello, I am a secondary 4 student from ACS (Independent).
+
 Please give me an internship 🥺.
 
 I enjoy participating in CTFs and programming competitions.
@@ -16,6 +18,10 @@ I enjoy participating in CTFs and programming competitions.
 
 **2023 Achievements**
 
+### Academics
+- Top in cohort for Physics
+- Top in cohort for Literature/Social Studies (Elect)
+  
 ### CTFs
 - SMU WhiteHacks 2023 1st
 - DawgCTF 2023 8th
