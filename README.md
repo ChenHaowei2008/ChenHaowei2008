@@ -9,6 +9,7 @@ I enjoy participating in CTFs and programming competitions.
 - Aided in organising Hack@AC 2024
 - Sieberrsec CTF 5.0 1st
 - Lag and Crash CTF 2024 3rd Closed category/4th Open category
+- SMU WhiteHacks 2024 2nd
 
 ### Comp Prog (NOI)
 - Singapore NOI 2024 Bronze
