@@ -16,6 +16,9 @@ I enjoy participating in CTFs and programming competitions.
 ### Comp Prog (NOI)
 - Singapore NOI 2024 Bronze
 
+### Drones
+- SAFMC Cat E Judges' commendation
+
 **2023 Achievements**
 
 ### Academics
