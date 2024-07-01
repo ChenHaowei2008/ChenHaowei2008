@@ -13,6 +13,7 @@ I enjoy participating in CTFs and programming competitions.
 - Lag and Crash CTF 2024 3rd Closed category/4th Open category
 - SMU WhiteHacks 2024 2nd
 - NUS Grey Cat The Flag 2024 finalist
+- CDDC 2024 5th JC/IP category (qualified through Sieberrsec)
 
 ### Comp Prog (NOI)
 - Singapore NOI 2024 Bronze
