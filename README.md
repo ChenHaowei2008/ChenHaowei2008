@@ -6,6 +6,8 @@ Please give me an internship 🥺.
 
 I enjoy participating in CTFs and programming competitions.
 
+You can find my resume [here](Resume-redacted.pdf)
+
 **2024 Achievements**
 ### CTFs
 - Aided in organising Hack@AC 2024
