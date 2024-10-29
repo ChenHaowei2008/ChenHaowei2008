@@ -23,6 +23,9 @@ You can find my resume [here](Resume-redacted.pdf)
 ### Drones
 - SAFMC Cat E Judges' commendation
 
+### Others
+- Nigel Lee Award of Excellence
+
 **2023 Achievements**
 
 ### Academics
