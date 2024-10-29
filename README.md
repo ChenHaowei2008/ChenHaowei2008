@@ -25,6 +25,7 @@ You can find my resume [here](Resume-redacted.pdf)
 
 ### Others
 - Nigel Lee Award of Excellence
+- Sawntoe's Award of Awesomeness
 
 **2023 Achievements**
 
