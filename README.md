@@ -16,6 +16,7 @@ You can find my resume [here](Resume-redacted.pdf)
 - SMU WhiteHacks 2024 2nd
 - NUS Grey Cat The Flag 2024 finalist
 - CDDC 2024 5th JC/IP category (qualified through Sieberrsec)
+- BlahajCTF 2nd
 
 ### Comp Prog (NOI)
 - Singapore NOI 2024 Bronze
