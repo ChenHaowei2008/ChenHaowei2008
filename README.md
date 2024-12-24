@@ -18,6 +18,7 @@ You can find my resume [here](Resume-redacted.pdf)
 - CDDC 2024 5th JC/IP category (qualified through Sieberrsec)
 - BlahajCTF 2nd
 - YBN CTF 3rd (solo)
+- AYCEP Finals 2nd
 
 ### Comp Prog (NOI)
 - Singapore NOI 2024 Bronze
