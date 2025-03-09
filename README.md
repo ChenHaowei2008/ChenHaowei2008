@@ -1,6 +1,6 @@
 ### Hi
 
-Hello, I am a secondary 4 student from ACS (Independent).
+Hello, I am a JC 1 student from Hwa Chong Institution.
 
 Please give me an internship 🥺.
 
@@ -8,6 +8,10 @@ I enjoy participating in CTFs and programming competitions.
 
 You can find my resume [here](Resume-redacted.pdf)
 
+**2025 Achievements**
+### CTFs
+- SMU WhiteHacks 2025 1st
+  
 **2024 Achievements**
 ### CTFs
 - Aided in organising Hack@AC 2024
@@ -31,7 +35,6 @@ You can find my resume [here](Resume-redacted.pdf)
 - Sawntoe's Award of Awesomeness
 
 **2023 Achievements**
-
 ### Academics
 - Top in cohort for Physics
 - Top in cohort for Literature/Social Studies (Elect)
