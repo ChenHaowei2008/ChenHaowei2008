@@ -11,6 +11,7 @@ You can find my resume [here](Resume-redacted.pdf)
 **2025 Achievements**
 ### CTFs
 - SMU WhiteHacks 2025 1st
+- Lockheed Martin Cyberquest 1st Asia Pacific
   
 **2024 Achievements**
 ### CTFs
