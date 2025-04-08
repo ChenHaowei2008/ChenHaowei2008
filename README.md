@@ -21,7 +21,7 @@ You can find my resume [here](Resume-redacted.pdf)
 - Lag and Crash CTF 2024 3rd Closed category/4th Open category
 - SMU WhiteHacks 2024 2nd
 - NUS Grey Cat The Flag 2024 finalist
-- CDDC 2024 5th JC/IP category (qualified through Sieberrsec)
+- CDDC 2024 Tied 3rd Pre-Uni category (qualified through Sieberrsec)
 - BlahajCTF 2nd
 - YBN CTF 3rd (solo)
 - AYCEP Finals 2nd
