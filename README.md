@@ -13,6 +13,7 @@ You can find my resume [here](Resume-redacted.pdf)
 - SMU WhiteHacks 2025 1st
 - Lockheed Martin Cyberquest 1st Asia Pacific
 - Codegate 2025 Quals 3rd Junior Category
+- Cyberthon 2025 1st & Cyberslay winner
   
 **2024 Achievements**
 ### CTFs
