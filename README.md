@@ -14,6 +14,7 @@ You can find my resume [here](Resume-redacted.pdf)
 - Lockheed Martin Cyberquest 1st Asia Pacific
 - Codegate 2025 Quals 3rd Junior Category
 - Cyberthon 2025 1st & Cyberslay winner
+- CDDC Finalist
   
 **2024 Achievements**
 ### CTFs
