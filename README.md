@@ -1,22 +1,25 @@
 ### Hi
 
-Hello, I am a JC 1 student from Hwa Chong Institution.
+Hello, I am the current Cybersecurity section head at HCI Infocomm & Robotics Society.
 
-Please give me an internship 🥺.
+Do feel free to reach out to me through my email!
 
 I enjoy participating in CTFs and programming competitions.
 
 You can find my resume [here](Resume-redacted.pdf)
 
-**2025 Achievements**
+### **2025 Achievements**
 ### CTFs
 - SMU WhiteHacks 2025 1st
 - Lockheed Martin Cyberquest 1st Asia Pacific
 - Codegate 2025 Quals 3rd Junior Category
 - Cyberthon 2025 1st & Cyberslay winner
 - CDDC Finalist
+- SSM CTF 3rd
+- GreyCTF quals 5th
+- GreyCTF finals 6th
   
-**2024 Achievements**
+## **2024 Achievements**
 ### CTFs
 - Aided in organising Hack@AC 2024
 - Sieberrsec CTF 5.0 1st
@@ -38,7 +41,7 @@ You can find my resume [here](Resume-redacted.pdf)
 - Nigel Lee Award of Excellence
 - Sawntoe's Award of Awesomeness
 
-**2023 Achievements**
+## **2023 Achievements**
 ### Academics
 - Top in cohort for Physics
 - Top in cohort for Literature/Social Studies (Elect)
@@ -58,4 +61,4 @@ You can find my resume [here](Resume-redacted.pdf)
 - National Youth Tech Championships 2023 1st
 
 
-I started playing CTFs competitvely in 2023 under the team [Cool Team](https://ctftime.org/team/43315) as the user `EpicMasterHacker`.
+I started playing CTFs competitvely in 2023 under the team [Cool Team](https://ctftime.org/team/43315) as the user `EpicMasterHacker` and `gene_rice_user`.
