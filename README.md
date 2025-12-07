@@ -18,7 +18,15 @@ You can find my resume [here](Resume-redacted.pdf)
 - SSM CTF 3rd
 - GreyCTF quals 5th
 - GreyCTF finals 6th
-  
+- CDDC Finals 4th
+- SSMCTF 3rd
+- Codegate Finals 9th
+- Sentinel Programme Cyber Sports Day 2nd
+- AICTF quals 1st
+- AICTF finals 4th
+- Grypthons CTF 2nd
+- BlahajCTF quals 1st
+
 ## **2024 Achievements**
 ### CTFs
 - Aided in organising Hack@AC 2024
