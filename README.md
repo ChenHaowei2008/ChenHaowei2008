@@ -26,6 +26,7 @@ You can find my resume [here](Resume-redacted.pdf)
 - AICTF finals 4th
 - Grypthons CTF 2nd
 - BlahajCTF quals 1st
+- BlahajCTF finals 3rd
 
 ## **2024 Achievements**
 ### CTFs
