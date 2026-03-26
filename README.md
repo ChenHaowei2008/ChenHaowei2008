@@ -8,6 +8,14 @@ I enjoy participating in CTFs and programming competitions.
 
 You can find my resume [here](Resume-redacted.pdf)
 
+## **2026 Acheivements**
+### CTFs
+- 1st placing in NCO Prelims
+- 1st placing in LNC Quals and Finals
+
+### Others
+- NOAI Silver
+
 ## **2025 Achievements**
 ### CTFs
 - SMU WhiteHacks 2025 1st
@@ -27,6 +35,7 @@ You can find my resume [here](Resume-redacted.pdf)
 - Grypthons CTF 2nd
 - BlahajCTF quals 1st
 - BlahajCTF finals 3rd
+- YBN CTF 1st
 
 ## **2024 Achievements**
 ### CTFs
